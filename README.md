@@ -1,1 +1,1 @@
-# Mini-Project-7
+Simple StopWatch
